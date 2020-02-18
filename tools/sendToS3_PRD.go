@@ -4,7 +4,7 @@ import "os"
 
 func main() {
 
-    part_val := "export bucket=cnn1-s3-inteldatastore-poc && export http_proxy=http://infa:Ian\\ McKellen@10.155.97.30:3872 && export https_proxy=http://infa:Ian\\ McKellen@10.155.97.30:3872"
+    part_val := "export bucket=cnn1-s3-inteldatastore-poc && export http_proxy=http://username:password@ip:port && export https_proxy=http://username:password@ip:port"
 
     part_files := "export tmp_file=`uuidgen`.parquet && export file_name=`date +'%F_%T.%3N'`.parquet && export schema_file=" + os.Args[1]
 
