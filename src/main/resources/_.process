@@ -1,0 +1,15 @@
+{
+  "type" : "rule",
+  "imports" : [
+    {"domain_name":"FI/MDC/Cust_MData","area":"_model","model":"delta","view":"table1","format":"delta"},
+    {"domain_name":"FI/MDC/GSC_BASECOST_HIS","area":"_output","model":"redshift","view":"table2","format":"csv"}
+  ],
+  "steps" : [
+    {"sql":"select count(1) from table1 union all select count(1) from table2","view":"ds1"},
+    {"sql":"select * from ds1","view":"ds2"}
+  ],
+  "exports" : [
+    {"domain_name":"TEST/DEV/Sample1","area":"_output","model":"redshift","view":"table1","format":"delta","compression": "none"},
+    {"domain_name":"TEST/DEV/Sample2","area":"_output","model":"redshift","view":"ds2","format":"csv","compression": "lzo"}
+  ]
+}
