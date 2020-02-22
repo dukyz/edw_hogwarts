@@ -1,0 +1,10 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+
++ nocsrf
+POST    /login                      com.se.edw.controllers.HomeController.login
+GET     /project                    com.se.edw.controllers.ProjectController.get
+POST    /project                    com.se.edw.controllers.ProjectController.post

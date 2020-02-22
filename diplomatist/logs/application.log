@@ -1,0 +1,584 @@
+2020-02-22 14:38:01,963 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-3 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 14:38:02,583 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-3 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2020-02-22 14:38:02,593 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-3 - Application started (Dev) (no global state)
+2020-02-22 14:38:31,668 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-3 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 14:38:31,789 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-3 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 14:38:31,790 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-3 - Application started (Dev) (no global state)
+2020-02-22 14:38:31,803 [WARN] from play.filters.cors.CORSFilter in application-akka.actor.default-dispatcher-5 - Invalid CORS request;Origin=Some(http://localhost:8080);Method=OPTIONS;Access-Control-Request-Headers=Some(content-type)
+2020-02-22 14:39:11,557 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-2 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 14:39:11,655 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 14:39:11,657 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2 - Application started (Dev) (no global state)
+2020-02-22 14:46:20,247 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-9 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 14:46:20,396 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-9 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 14:46:20,397 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-9 - Application started (Dev) (no global state)
+2020-02-22 14:46:59,750 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-6 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 14:46:59,859 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-6 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 14:46:59,859 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-6 - Application started (Dev) (no global state)
+2020-02-22 14:47:41,004 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-14 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 14:47:41,104 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-14 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 14:47:41,104 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-14 - Application started (Dev) (no global state)
+2020-02-22 14:49:01,250 [ERROR] from application in play-dev-mode-akka.actor.default-dispatcher-18 - 
+
+! @7f079ebn3 - Internal server error, for (POST) [/login] ->
+ 
+play.sbt.PlayExceptions$CompilationException: Compilation error[Cannot write an instance of Unit to HTTP response. Try to define a Writeable[Unit]]
+	at play.sbt.PlayExceptions$CompilationException$.apply(PlayExceptions.scala:36)
+	at play.sbt.PlayExceptions$CompilationException$.apply(PlayExceptions.scala:36)
+	at scala.Option.map(Option.scala:146)
+	at play.sbt.run.PlayReload$.$anonfun$taskFailureHandler$1(PlayReload.scala:40)
+	at scala.Option.map(Option.scala:146)
+	at play.sbt.run.PlayReload$.taskFailureHandler(PlayReload.scala:35)
+	at play.sbt.run.PlayReload$.compileFailure(PlayReload.scala:28)
+	at play.sbt.run.PlayReload$.$anonfun$compile$3(PlayReload.scala:63)
+	at scala.util.Either$LeftProjection.map(Either.scala:569)
+	at play.sbt.run.PlayReload$.compile(PlayReload.scala:63)
+	at play.sbt.run.PlayRun$.$anonfun$playRunTask$4(PlayRun.scala:78)
+	at play.runsupport.Reloader.$anonfun$reload$1(Reloader.scala:496)
+	at play.runsupport.Reloader$$anon$1.run(Reloader.scala:57)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at play.runsupport.Reloader$.play$runsupport$Reloader$$withReloaderContextClassLoader(Reloader.scala:63)
+	at play.runsupport.Reloader.reload(Reloader.scala:496)
+	at play.core.server.DevServerStart$$anonfun$mainDev$1$$anon$1.get(DevServerStart.scala:142)
+	at play.core.server.AkkaHttpServer.play$core$server$AkkaHttpServer$$handleRequest(AkkaHttpServer.scala:302)
+	at play.core.server.AkkaHttpServer$$anonfun$5.apply(AkkaHttpServer.scala:188)
+	at play.core.server.AkkaHttpServer$$anonfun$5.apply(AkkaHttpServer.scala:188)
+	at akka.stream.impl.fusing.MapAsync$$anon$25.onPush(Ops.scala:1262)
+	at akka.stream.impl.fusing.GraphInterpreter.processPush(GraphInterpreter.scala:523)
+	at akka.stream.impl.fusing.GraphInterpreter.execute(GraphInterpreter.scala:409)
+	at akka.stream.impl.fusing.GraphInterpreterShell.runBatch(ActorGraphInterpreter.scala:606)
+	at akka.stream.impl.fusing.GraphInterpreterShell$AsyncInput.execute(ActorGraphInterpreter.scala:485)
+	at akka.stream.impl.fusing.GraphInterpreterShell.processEvent(ActorGraphInterpreter.scala:581)
+	at akka.stream.impl.fusing.ActorGraphInterpreter.akka$stream$impl$fusing$ActorGraphInterpreter$$processEvent(ActorGraphInterpreter.scala:749)
+	at akka.stream.impl.fusing.ActorGraphInterpreter$$anonfun$receive$1.applyOrElse(ActorGraphInterpreter.scala:764)
+	at akka.actor.Actor$class.aroundReceive(Actor.scala:539)
+	at akka.stream.impl.fusing.ActorGraphInterpreter.aroundReceive(ActorGraphInterpreter.scala:671)
+	at akka.actor.ActorCell.receiveMessage(ActorCell.scala:612)
+	at akka.actor.ActorCell.invoke(ActorCell.scala:581)
+	at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:268)
+	at akka.dispatch.Mailbox.run(Mailbox.scala:229)
+	at akka.dispatch.Mailbox.exec(Mailbox.scala:241)
+	at akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at akka.dispatch.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2020-02-22 14:49:32,299 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-21 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 14:49:32,384 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-21 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 14:49:32,384 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-21 - Application started (Dev) (no global state)
+2020-02-22 18:51:15,656 [ERROR] from application in play-dev-mode-akka.actor.default-dispatcher-40 - 
+
+! @7f08f9abi - Internal server error, for (POST) [/login] ->
+ 
+play.sbt.PlayExceptions$CompilationException: Compilation error[No instance of play.api.libs.json.Format is available for scala.Option[scala.Any] in the implicit scope (Hint: if declared in the same file, make sure it's declared before)]
+	at play.sbt.PlayExceptions$CompilationException$.apply(PlayExceptions.scala:36)
+	at play.sbt.PlayExceptions$CompilationException$.apply(PlayExceptions.scala:36)
+	at scala.Option.map(Option.scala:146)
+	at play.sbt.run.PlayReload$.$anonfun$taskFailureHandler$1(PlayReload.scala:40)
+	at scala.Option.map(Option.scala:146)
+	at play.sbt.run.PlayReload$.taskFailureHandler(PlayReload.scala:35)
+	at play.sbt.run.PlayReload$.compileFailure(PlayReload.scala:28)
+	at play.sbt.run.PlayReload$.$anonfun$compile$3(PlayReload.scala:63)
+	at scala.util.Either$LeftProjection.map(Either.scala:569)
+	at play.sbt.run.PlayReload$.compile(PlayReload.scala:63)
+	at play.sbt.run.PlayRun$.$anonfun$playRunTask$4(PlayRun.scala:78)
+	at play.runsupport.Reloader.$anonfun$reload$1(Reloader.scala:496)
+	at play.runsupport.Reloader$$anon$1.run(Reloader.scala:57)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at play.runsupport.Reloader$.play$runsupport$Reloader$$withReloaderContextClassLoader(Reloader.scala:63)
+	at play.runsupport.Reloader.reload(Reloader.scala:496)
+	at play.core.server.DevServerStart$$anonfun$mainDev$1$$anon$1.get(DevServerStart.scala:142)
+	at play.core.server.AkkaHttpServer.play$core$server$AkkaHttpServer$$handleRequest(AkkaHttpServer.scala:302)
+	at play.core.server.AkkaHttpServer$$anonfun$5.apply(AkkaHttpServer.scala:188)
+	at play.core.server.AkkaHttpServer$$anonfun$5.apply(AkkaHttpServer.scala:188)
+	at akka.stream.impl.fusing.MapAsync$$anon$25.onPush(Ops.scala:1262)
+	at akka.stream.impl.fusing.GraphInterpreter.processPush(GraphInterpreter.scala:523)
+	at akka.stream.impl.fusing.GraphInterpreter.execute(GraphInterpreter.scala:409)
+	at akka.stream.impl.fusing.GraphInterpreterShell.runBatch(ActorGraphInterpreter.scala:606)
+	at akka.stream.impl.fusing.GraphInterpreterShell$AsyncInput.execute(ActorGraphInterpreter.scala:485)
+	at akka.stream.impl.fusing.GraphInterpreterShell.processEvent(ActorGraphInterpreter.scala:581)
+	at akka.stream.impl.fusing.ActorGraphInterpreter.akka$stream$impl$fusing$ActorGraphInterpreter$$processEvent(ActorGraphInterpreter.scala:749)
+	at akka.stream.impl.fusing.ActorGraphInterpreter$$anonfun$receive$1.applyOrElse(ActorGraphInterpreter.scala:764)
+	at akka.actor.Actor$class.aroundReceive(Actor.scala:539)
+	at akka.stream.impl.fusing.ActorGraphInterpreter.aroundReceive(ActorGraphInterpreter.scala:671)
+	at akka.actor.ActorCell.receiveMessage(ActorCell.scala:612)
+	at akka.actor.ActorCell.invoke(ActorCell.scala:581)
+	at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:268)
+	at akka.dispatch.Mailbox.run(Mailbox.scala:229)
+	at akka.dispatch.Mailbox.exec(Mailbox.scala:241)
+	at akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at akka.dispatch.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2020-02-22 18:56:47,074 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-44 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 18:56:47,223 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-44 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 18:56:47,224 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-44 - Application started (Dev) (no global state)
+2020-02-22 19:15:47,685 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-51 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 19:15:47,812 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-51 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 19:15:47,812 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-51 - Application started (Dev) (no global state)
+2020-02-22 19:18:01,084 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-56 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 19:18:01,185 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-56 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 19:18:01,185 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-56 - Application started (Dev) (no global state)
+2020-02-22 19:28:03,735 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-63 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 19:28:03,853 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-63 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 19:28:03,854 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-63 - Application started (Dev) (no global state)
+2020-02-22 19:35:50,442 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-65 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 19:35:50,542 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-65 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 19:35:50,542 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-65 - Application started (Dev) (no global state)
+2020-02-22 19:40:34,736 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-70 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 19:40:34,806 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-70 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 19:40:34,806 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-70 - Application started (Dev) (no global state)
+2020-02-22 19:44:09,190 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-70 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 19:44:09,259 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-70 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 19:44:09,275 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-70 - Application started (Dev) (no global state)
+2020-02-22 20:34:39,914 [WARN] from play.filters.CSRF in application-akka.actor.default-dispatcher-12 - [CSRF] Check failed because no token found in headers for /login
+2020-02-22 20:35:40,169 [WARN] from play.filters.CSRF in application-akka.actor.default-dispatcher-13 - [CSRF] Check failed because no token found in headers for /login
+2020-02-22 20:38:01,920 [WARN] from play.filters.CSRF in application-akka.actor.default-dispatcher-15 - [CSRF] Check failed because no token found in headers for /login
+2020-02-22 20:42:23,919 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-101 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:42:24,013 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-101 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:42:24,014 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-101 - Application started (Dev) (no global state)
+2020-02-22 20:43:55,420 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-105 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:43:55,496 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-105 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:43:55,497 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-105 - Application started (Dev) (no global state)
+2020-02-22 20:43:55,502 [WARN] from play.filters.CSRF in application-akka.actor.default-dispatcher-4 - [CSRF] Check failed because no token found in headers for /login
+2020-02-22 20:44:06,096 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-105 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:44:06,163 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-105 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:44:06,163 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-105 - Application started (Dev) (no global state)
+2020-02-22 20:45:36,814 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-111 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:45:36,897 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-111 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:45:36,899 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-111 - Application started (Dev) (no global state)
+2020-02-22 20:46:52,645 [ERROR] from application in application-akka.actor.default-dispatcher-7 - 
+
+! @7f094e2aa - Internal server error, for (POST) [/login] ->
+ 
+play.api.http.HttpErrorHandlerExceptions$$anon$1: Execution exception[[JsResultException: JsResultException(errors:List((/username,List(JsonValidationError(List(error.path.missing),WrappedArray()))), (/password,List(JsonValidationError(List(error.path.missing),WrappedArray())))))]]
+	at play.api.http.HttpErrorHandlerExceptions$.throwableToUsefulException(HttpErrorHandler.scala:344)
+	at play.api.http.DefaultHttpErrorHandler.onServerError(HttpErrorHandler.scala:263)
+	at play.core.server.AkkaHttpServer$$anonfun$3.applyOrElse(AkkaHttpServer.scala:443)
+	at play.core.server.AkkaHttpServer$$anonfun$3.applyOrElse(AkkaHttpServer.scala:441)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:346)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:345)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36)
+	at akka.dispatch.BatchingExecutor$AbstractBatch.processBatch(BatchingExecutor.scala:55)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:92)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:92)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:92)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72)
+	at akka.dispatch.BatchingExecutor$BlockableBatch.run(BatchingExecutor.scala:91)
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41)
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(ForkJoinExecutorConfigurator.scala:49)
+	at akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at akka.dispatch.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+Caused by: play.api.libs.json.JsResultException: JsResultException(errors:List((/username,List(JsonValidationError(List(error.path.missing),WrappedArray()))), (/password,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
+	at play.api.libs.json.JsReadable$$anonfun$2.apply(JsReadable.scala:25)
+	at play.api.libs.json.JsReadable$$anonfun$2.apply(JsReadable.scala:25)
+	at play.api.libs.json.JsError.fold(JsResult.scala:64)
+	at play.api.libs.json.JsReadable$class.as(JsReadable.scala:23)
+	at play.api.libs.json.JsObject.as(JsValue.scala:124)
+	at com.se.edw.controllers.HomeController$$anonfun$login$1.apply(HomeController.scala:20)
+	at com.se.edw.controllers.HomeController$$anonfun$login$1.apply(HomeController.scala:18)
+	at play.api.mvc.ActionBuilderImpl.invokeBlock(Action.scala:482)
+	at play.api.mvc.ActionBuilderImpl.invokeBlock(Action.scala:480)
+	at play.api.mvc.ActionBuilder$$anon$2.apply(Action.scala:419)
+	at play.api.mvc.Action$$anonfun$apply$2.apply(Action.scala:95)
+	at play.api.mvc.Action$$anonfun$apply$2.apply(Action.scala:88)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2$$anonfun$1.apply(Accumulator.scala:181)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2$$anonfun$1.apply(Accumulator.scala:181)
+	at scala.util.Try$.apply(Try.scala:192)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2.apply(Accumulator.scala:181)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2.apply(Accumulator.scala:177)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at play.api.libs.streams.StrictAccumulator.run(Accumulator.scala:220)
+	at play.core.server.AkkaHttpServer$$anonfun$16.apply(AkkaHttpServer.scala:437)
+	at play.core.server.AkkaHttpServer$$anonfun$16.apply(AkkaHttpServer.scala:434)
+	at akka.http.scaladsl.util.FastFuture$.akka$http$scaladsl$util$FastFuture$$strictTransform$1(FastFuture.scala:41)
+	at akka.http.scaladsl.util.FastFuture$$anonfun$transformWith$extension1$1.apply(FastFuture.scala:51)
+	at akka.http.scaladsl.util.FastFuture$$anonfun$transformWith$extension1$1.apply(FastFuture.scala:50)
+	... 13 common frames omitted
+2020-02-22 20:47:47,470 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-111 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:47:47,602 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-111 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:47:47,603 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-111 - Application started (Dev) (no global state)
+2020-02-22 20:48:02,781 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-109 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:48:02,860 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-109 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:48:02,861 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-109 - Application started (Dev) (no global state)
+2020-02-22 20:50:12,498 [ERROR] from application in application-akka.actor.default-dispatcher-2 - 
+
+! @7f094pc10 - Internal server error, for (POST) [/project] ->
+ 
+play.api.http.HttpErrorHandlerExceptions$$anon$1: Execution exception[[NoSuchElementException: None.get]]
+	at play.api.http.HttpErrorHandlerExceptions$.throwableToUsefulException(HttpErrorHandler.scala:344)
+	at play.api.http.DefaultHttpErrorHandler.onServerError(HttpErrorHandler.scala:263)
+	at play.core.server.AkkaHttpServer$$anonfun$3.applyOrElse(AkkaHttpServer.scala:443)
+	at play.core.server.AkkaHttpServer$$anonfun$3.applyOrElse(AkkaHttpServer.scala:441)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:346)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:345)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36)
+	at akka.dispatch.BatchingExecutor$AbstractBatch.processBatch(BatchingExecutor.scala:55)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:92)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:92)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:92)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72)
+	at akka.dispatch.BatchingExecutor$BlockableBatch.run(BatchingExecutor.scala:91)
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41)
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(ForkJoinExecutorConfigurator.scala:49)
+	at akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at akka.dispatch.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+Caused by: java.util.NoSuchElementException: None.get
+	at scala.None$.get(Option.scala:347)
+	at scala.None$.get(Option.scala:345)
+	at com.se.edw.controllers.ProjectController$$anonfun$post$1.apply(ProjectController.scala:34)
+	at com.se.edw.controllers.ProjectController$$anonfun$post$1.apply(ProjectController.scala:31)
+	at play.api.mvc.ActionBuilderImpl.invokeBlock(Action.scala:482)
+	at play.api.mvc.ActionBuilderImpl.invokeBlock(Action.scala:480)
+	at play.api.mvc.ActionBuilder$$anon$2.apply(Action.scala:419)
+	at play.api.mvc.Action$$anonfun$apply$2.apply(Action.scala:95)
+	at play.api.mvc.Action$$anonfun$apply$2.apply(Action.scala:88)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2$$anonfun$1.apply(Accumulator.scala:181)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2$$anonfun$1.apply(Accumulator.scala:181)
+	at scala.util.Try$.apply(Try.scala:192)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2.apply(Accumulator.scala:181)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2.apply(Accumulator.scala:177)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at play.api.libs.streams.StrictAccumulator.run(Accumulator.scala:220)
+	at play.core.server.AkkaHttpServer$$anonfun$16.apply(AkkaHttpServer.scala:437)
+	at play.core.server.AkkaHttpServer$$anonfun$16.apply(AkkaHttpServer.scala:434)
+	at akka.http.scaladsl.util.FastFuture$.akka$http$scaladsl$util$FastFuture$$strictTransform$1(FastFuture.scala:41)
+	at akka.http.scaladsl.util.FastFuture$$anonfun$transformWith$extension1$1.apply(FastFuture.scala:51)
+	at akka.http.scaladsl.util.FastFuture$$anonfun$transformWith$extension1$1.apply(FastFuture.scala:50)
+	... 13 common frames omitted
+2020-02-22 20:50:53,526 [ERROR] from application in application-akka.actor.default-dispatcher-6 - 
+
+! @7f0951kj1 - Internal server error, for (POST) [/project] ->
+ 
+play.api.http.HttpErrorHandlerExceptions$$anon$1: Execution exception[[JsResultException: JsResultException(errors:List((/sa,List(JsonValidationError(List(error.path.missing),WrappedArray()))), (/pm,List(JsonValidationError(List(error.path.missing),WrappedArray()))), (/name,List(JsonValidationError(List(error.path.missing),WrappedArray())))))]]
+	at play.api.http.HttpErrorHandlerExceptions$.throwableToUsefulException(HttpErrorHandler.scala:344)
+	at play.api.http.DefaultHttpErrorHandler.onServerError(HttpErrorHandler.scala:263)
+	at play.core.server.AkkaHttpServer$$anonfun$3.applyOrElse(AkkaHttpServer.scala:443)
+	at play.core.server.AkkaHttpServer$$anonfun$3.applyOrElse(AkkaHttpServer.scala:441)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:346)
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:345)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:36)
+	at akka.dispatch.BatchingExecutor$AbstractBatch.processBatch(BatchingExecutor.scala:55)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply$mcV$sp(BatchingExecutor.scala:92)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:92)
+	at akka.dispatch.BatchingExecutor$BlockableBatch$$anonfun$run$1.apply(BatchingExecutor.scala:92)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:72)
+	at akka.dispatch.BatchingExecutor$BlockableBatch.run(BatchingExecutor.scala:91)
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41)
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(ForkJoinExecutorConfigurator.scala:49)
+	at akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at akka.dispatch.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+Caused by: play.api.libs.json.JsResultException: JsResultException(errors:List((/sa,List(JsonValidationError(List(error.path.missing),WrappedArray()))), (/pm,List(JsonValidationError(List(error.path.missing),WrappedArray()))), (/name,List(JsonValidationError(List(error.path.missing),WrappedArray())))))
+	at play.api.libs.json.JsReadable$$anonfun$2.apply(JsReadable.scala:25)
+	at play.api.libs.json.JsReadable$$anonfun$2.apply(JsReadable.scala:25)
+	at play.api.libs.json.JsError.fold(JsResult.scala:64)
+	at play.api.libs.json.JsReadable$class.as(JsReadable.scala:23)
+	at play.api.libs.json.JsObject.as(JsValue.scala:124)
+	at com.se.edw.controllers.ProjectController$$anonfun$post$1.apply(ProjectController.scala:34)
+	at com.se.edw.controllers.ProjectController$$anonfun$post$1.apply(ProjectController.scala:31)
+	at play.api.mvc.ActionBuilderImpl.invokeBlock(Action.scala:482)
+	at play.api.mvc.ActionBuilderImpl.invokeBlock(Action.scala:480)
+	at play.api.mvc.ActionBuilder$$anon$2.apply(Action.scala:419)
+	at play.api.mvc.Action$$anonfun$apply$2.apply(Action.scala:95)
+	at play.api.mvc.Action$$anonfun$apply$2.apply(Action.scala:88)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2$$anonfun$1.apply(Accumulator.scala:181)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2$$anonfun$1.apply(Accumulator.scala:181)
+	at scala.util.Try$.apply(Try.scala:192)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2.apply(Accumulator.scala:181)
+	at play.api.libs.streams.StrictAccumulator$$anonfun$mapFuture$2.apply(Accumulator.scala:177)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at play.api.libs.streams.StrictAccumulator.run(Accumulator.scala:220)
+	at play.core.server.AkkaHttpServer$$anonfun$16.apply(AkkaHttpServer.scala:437)
+	at play.core.server.AkkaHttpServer$$anonfun$16.apply(AkkaHttpServer.scala:434)
+	at akka.http.scaladsl.util.FastFuture$.akka$http$scaladsl$util$FastFuture$$strictTransform$1(FastFuture.scala:41)
+	at akka.http.scaladsl.util.FastFuture$$anonfun$transformWith$extension1$1.apply(FastFuture.scala:51)
+	at akka.http.scaladsl.util.FastFuture$$anonfun$transformWith$extension1$1.apply(FastFuture.scala:50)
+	... 13 common frames omitted
+2020-02-22 20:52:50,390 [WARN] from play.filters.CSRF in application-akka.actor.default-dispatcher-9 - [CSRF] Check failed because no token found in headers for /login
+2020-02-22 20:53:05,306 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-108 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:53:05,384 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-108 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:53:05,384 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-108 - Application started (Dev) (no global state)
+2020-02-22 20:53:22,112 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-114 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:53:22,179 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-114 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:53:22,180 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-114 - Application started (Dev) (no global state)
+2020-02-22 20:53:22,184 [WARN] from play.filters.CSRF in application-akka.actor.default-dispatcher-2 - [CSRF] Check failed because no token found in headers for /login
+2020-02-22 20:53:24,473 [WARN] from play.filters.CSRF in application-akka.actor.default-dispatcher-2 - [CSRF] Check failed because no token found in headers for /login
+2020-02-22 20:53:47,827 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-108 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 20:53:47,890 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-108 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 20:53:47,890 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-108 - Application started (Dev) (no global state)
+2020-02-22 21:31:34,045 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-116 - 
+Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
+The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
+will be able to start in production mode, you will also see a warning when it is starting.
+To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+          
+2020-02-22 21:31:34,120 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-116 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-02-22 21:31:34,120 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-116 - Application started (Dev) (no global state)
